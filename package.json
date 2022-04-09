@@ -20,7 +20,7 @@
     "echarts": "^4.5.0",
     "es6-promise": "^4.2.8",
     "img-vuer": "^0.19.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "normalize.css": "^8.0.1",
     "quasar": "^1.0.0",
     "querystring": "^0.2.0",
